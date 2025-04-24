@@ -6,37 +6,34 @@ En el desarrollo de software, es fundamental distinguir entre **Validación** y 
 
 ## ✅ Validación
 
-La **validación** nos permite asegurar que estamos construyendo **lo que el usuario realmente necesita**.
+La **validación** consiste en asegurarse de que los **requisitos correspondan efectivamente al problema a resolver**. Es decir, busca comprobar que la aplicación **sirve para el propósito con el cual fue solicitada**.
 
 > **¿Estamos resolviendo el problema correcto?**
 
-En esta tarea, validar implica:
-- Refinar los requerimientos iniciales entregados.
-- Hacer suposiciones justificadas en caso de ambigüedad.
-- Confirmar que el sistema cubre efectivamente las necesidades.
+Este proceso se enfoca en detectar **problemas en la especificación de requisitos** y asegurar que el producto haga lo que se espera de él en la **realidad del usuario**.
 
-La validación se puede realizar comparando los requisitos con el contexto real de uso, mediante entrevistas, feedback del usuario o simulaciones de escenarios.
+### 🛠️ ¿Cómo se puede realizar la validación?
+
+- Contrastando los **requisitos con las necesidades reales** del usuario o cliente.
+- A través de **entrevistas, feedback directo o simulaciones de uso**.
+- Validando el alcance mediante **escenarios de uso reales y casos de negocio**.
+- Preguntando de forma reiterativa: *¿Esto es lo que realmente necesitan?*
+
 
 ---
 
 ## ✅ Verificación
 
-La **verificación** se enfoca en comprobar que el sistema **cumple con lo que se ha especificado** técnicamente.
+La **verificación** consiste en asegurarse de que el **software cumple con los requisitos especificados**. En otras palabras, se trata de confirmar que el producto **corresponde a lo que se definió en su diseño y documentación**.
 
 > **¿Estamos resolviendo correctamente el problema?**
 
-Verificar implica:
-- Definir casos de prueba alineados con los requisitos funcionales.
-- Ejecutar pruebas que confirmen el correcto comportamiento del sistema bajo diferentes condiciones.
-- Contrastar lo implementado con los artefactos previos (como requerimientos, diseños o manuales).
+La verificación demuestra que el producto **se está haciendo como se dijo que se iba a hacer**, siguiendo lo acordado previamente en los artefactos del proceso de desarrollo.
 
-En el contexto de esta tarea, la verificación se aplica sobre funcionalidades como:
-- CRUD de productos
-- Gestión de stock
-- Filtros y búsqueda
-- Generación de reportes
-- Sistema de autenticación
+### 🧪 ¿Cómo se puede realizar la verificación?
 
+- Contrastando **artefactos entre sí** (por ejemplo, diseño vs implementación, requisitos vs pruebas).
+- Ejecutando **pruebas** que permitan comprobar el cumplimiento de cada requisito.
 ---
 
 
