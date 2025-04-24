@@ -91,14 +91,38 @@ Este tipo de análisis ayuda a conectar los conceptos de **verificación y valid
 
 ---
 
-# 🧾 Problemas asociados a Validación y Verificación 
+# 💻 Ejercicios asociados a Validación y Verificación 
 
 ### 📅 Primer semestre 2025
 
-**Temas desarrollados:**
+**📦 Inventario Bodega**
+>
+>Un emprendedor nos ha solicitado una aplicación sencilla para gestionar su inventario de productos en la bodega de su negocio. Nos ha dicho que, con tanta tecnología, necesita algo práctico y funcional.
+>
+>Requerimientos:
+>
+>CRUD de Productos: Permitir a los usuarios agregar, consultar, actualizar y eliminar productos del inventario. Cada producto debe tener un nombre, descripción, cantidad disponible, precio unitario y categoría (por ejemplo, "Electrónica", "Ropa", "Alimentos", etc.).
+>Gestión de Stock: Permitir actualizar la cantidad de productos cuando se vendan o se reciban nuevas unidades.
+>Filtrado y Búsqueda
+>Generación de Reportes: Mostrar un resumen con el total de productos en inventario, el valor total del inventario y los productos agotados.
+>Autenticación: Proteger el acceso con un sistema de autenticación por nombre de usuario y contraseña.
+
+[>>Ver Detalle caso]
 
 ### 📅 Segundo semestre 2024
 
-**Temas desarrollados:**
+**📝 Gestión de Tareas**
+> "Un cliente nos ha solicitado una aplicación para gestionar sus tareas, algo muy sencillo nos ha dicho, más en estos tiempos con tanta tecnología":
+>
+>Gestión de Tareas: Desarrollar un sistema que permita a los usuarios crear, consultar, actualizar y eliminar tareas a través de la línea de comandos. Cada tarea debe tener un título, una descripción, una fecha de vencimiento, y una etiqueta que facilite la organización (por ejemplo, "urgente", "trabajo", "personal", otros).
+>
+>Filtrado y Búsqueda: Incluir funcionalidades para que los usuarios puedan filtrar y buscar tareas en función de varios criterios, como la fecha de vencimiento, etiquetas o estado de la tarea (pendiente, en progreso, completada).
+>
+>Gestión de Estados de Tareas: Implementar un sistema de gestión de estados para las tareas que permita a los usuarios marcar una tarea como "en progreso" o "completada". Las tareas completadas pueden ser archivadas y consultadas posteriormente.
+>
+>Autenticación: Proteger el acceso al sistema con un mecanismo de autenticación mediante un nombre de usuario y contraseña.
+>
+
+[>>Ver Detalle caso]
 
 ---
