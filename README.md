@@ -13,7 +13,7 @@ La **validación** nos permite asegurar que estamos construyendo **lo que el usu
 En esta tarea, validar implica:
 - Refinar los requerimientos iniciales entregados.
 - Hacer suposiciones justificadas en caso de ambigüedad.
-- Confirmar que el sistema cubre efectivamente las necesidades del emprendedor que desea gestionar su inventario.
+- Confirmar que el sistema cubre efectivamente las necesidades.
 
 La validación se puede realizar comparando los requisitos con el contexto real de uso, mediante entrevistas, feedback del usuario o simulaciones de escenarios.
 
@@ -39,5 +39,4 @@ En el contexto de esta tarea, la verificación se aplica sobre funcionalidades c
 
 ---
 
-A continuación, se presentan ejemplos y casos aplicados para ilustrar ambos conceptos.
 
