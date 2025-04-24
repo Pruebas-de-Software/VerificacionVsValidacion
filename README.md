@@ -89,5 +89,11 @@ Es importante tener en cuenta que sería literalmente imposible probar exhaustiv
 
 Este tipo de análisis ayuda a conectar los conceptos de **verificación y validación** con escenarios reales de desarrollo.
 
+---
 
+# 🧾 Versiones
+
+### 📅 Primer semestre 2025
+
+**Temas desarrollados:**
 
