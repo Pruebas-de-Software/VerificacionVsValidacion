@@ -1,6 +1,6 @@
 # ✅ Verificación & Validación
 
-En el desarrollo de software, es fundamental distinguir entre **Validación** y **Verificación**, ya que cada una aborda una dimensión distinta del aseguramiento de calidad.
+En desarrollo de software, es fundamental distinguir entre **Validación** y **Verificación**, ya que cada una aborda una dimensión distinta del aseguramiento de calidad.
 
 ---
 
@@ -91,7 +91,7 @@ Este tipo de análisis ayuda a conectar los conceptos de **verificación y valid
 
 ---
 
-# 🧾 Versiones
+# 🧾 Problemas asociados a Validación y Verificación 
 
 ### 📅 Primer semestre 2025
 
