@@ -30,14 +30,22 @@ La **verificación** consiste en asegurarse de que el **software cumple con los 
 
 La verificación demuestra que el producto **se está haciendo como se dijo que se iba a hacer**, siguiendo lo acordado previamente en los artefactos del proceso de desarrollo.
 
-### 🧪 ¿Cómo se puede realizar la verificación?
+### ¿Cómo se puede realizar la verificación?
 
 - Contrastando **artefactos entre sí** (por ejemplo, diseño vs implementación, requisitos vs pruebas).
 - Ejecutando **pruebas** que permitan comprobar el cumplimiento de cada requisito.
 
 ---
 
-## 🧪 Ejemplo: `public int calculateDiscount(int price, String category)`
+## 🧪 Ejemplo: 
+```
+// Ejemplo de función en Java
+public int calculateDiscount(int price, String category) {
+  // Lógica de ejemplo aquí
+}
+```
+        
+     
 
 Esta función calcula un descuento basado en el precio y la categoría de producto. A simple vista, parece directa. Pero si queremos **validar** y **verificar** correctamente esta función, debemos formular una serie de preguntas.
 
