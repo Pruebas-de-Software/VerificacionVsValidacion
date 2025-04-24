@@ -37,7 +37,7 @@ La verificación demuestra que el producto **se está haciendo como se dijo que 
 
 ---
 
-## 🧪 Ejemplo: 
+# 🧪 Ejemplo: 
 ```
 // Ejemplo de función en Java
 public int calculateDiscount(int price, String category) {
@@ -51,7 +51,7 @@ Esta función calcula un descuento basado en el precio y la categoría de produc
 
 ---
 
-### ✅ Validación: ¿Estamos resolviendo el problema correcto?
+## ✅ Validación: ¿Estamos resolviendo el problema correcto?
 
 Asegurarse de tener las respuestas correctas a estas preguntas es parte de la validación del programa. Antes de implementar esta función, deberíamos responder preguntas como:
 
@@ -68,7 +68,7 @@ Estas preguntas permiten validar que la lógica que estamos construyendo tenga s
 
 ---
 
-### ✅ Verificación: ¿Estamos resolviendo correctamente el problema?
+## ✅ Verificación: ¿Estamos resolviendo correctamente el problema?
 
 Es importante tener en cuenta que sería literalmente imposible probar exhaustivamente cada combinación de entrada. Debemos escoger un conjunto verificable. Para verificar el correcto funcionamiento del código, se deben definir casos de prueba específicos:
 
@@ -97,3 +97,8 @@ Este tipo de análisis ayuda a conectar los conceptos de **verificación y valid
 
 **Temas desarrollados:**
 
+### 📅 Segundo semestre 2024
+
+**Temas desarrollados:**
+
+---
