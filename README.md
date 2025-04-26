@@ -107,7 +107,7 @@ Este tipo de análisis ayuda a conectar los conceptos de **verificación y valid
 >Generación de Reportes: Mostrar un resumen con el total de productos en inventario, el valor total del inventario y los productos agotados.
 >Autenticación: Proteger el acceso con un sistema de autenticación por nombre de usuario y contraseña.
 
-[>>📄[Ver detalle caso](ejercicios/ej_s12025.md)]
+📄[[>>Ver detalle caso]](ejercicios/ej_s12025.md)
 
 ### 📅 Segundo semestre 2024
 
