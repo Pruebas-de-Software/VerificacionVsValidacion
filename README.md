@@ -96,6 +96,8 @@ Este tipo de análisis ayuda a conectar los conceptos de **verificación y valid
 ### 📅 Primer semestre 2025
 
 **📦 Inventario Bodega**
+
+**Requisito:**
 >
 >Un emprendedor nos ha solicitado una aplicación sencilla para gestionar su inventario de productos en la bodega de su negocio. Nos ha dicho que, con tanta tecnología, necesita algo práctico y funcional.
 >
@@ -117,6 +119,9 @@ Este tipo de análisis ayuda a conectar los conceptos de **verificación y valid
 ### 📅 Segundo semestre 2024
 
 **📝 Gestión de Tareas**
+
+**Requisito:**
+>
 > "Un cliente nos ha solicitado una aplicación para gestionar sus tareas, algo muy sencillo nos ha dicho, más en estos tiempos con tanta tecnología":
 >
 >Gestión de Tareas: Desarrollar un sistema que permita a los usuarios crear, consultar, actualizar y eliminar tareas a través de la línea de comandos. Cada tarea debe tener un título, una descripción, una fecha de vencimiento, y una etiqueta que facilite la organización (por ejemplo, "urgente", "trabajo", "personal", otros).
