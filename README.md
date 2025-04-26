@@ -109,6 +109,8 @@ Este tipo de análisis ayuda a conectar los conceptos de **verificación y valid
 
 📄[[>>Ver detalle caso]](ejercicios/ej_s12025.md)
 
+#### Mejores respuestas
+
 ### 📅 Segundo semestre 2024
 
 **📝 Gestión de Tareas**
@@ -124,5 +126,7 @@ Este tipo de análisis ayuda a conectar los conceptos de **verificación y valid
 >
 
 [>>Ver detalle caso]
+
+#### Mejores respuestas
 
 ---
