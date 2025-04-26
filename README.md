@@ -110,6 +110,9 @@ Este tipo de análisis ayuda a conectar los conceptos de **verificación y valid
 📄[[>>Ver detalle caso]](ejercicios/ej_s12025.md)
 
 #### Mejores respuestas
+- Repo 1
+- Repo 2
+- Repo 3
 
 ### 📅 Segundo semestre 2024
 
@@ -128,5 +131,7 @@ Este tipo de análisis ayuda a conectar los conceptos de **verificación y valid
 [>>Ver detalle caso]
 
 #### Mejores respuestas
-
+- Repo 1
+- Repo 2
+- Repo 3
 ---
