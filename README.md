@@ -38,7 +38,7 @@ La verificación demuestra que el producto **se está haciendo como se dijo que 
 ---
 
 # 🧪 Ejemplo: 
-```
+```java
 // Ejemplo de función en Java
 public int calculateDiscount(int price, String category) {
   // Lógica de ejemplo aquí
