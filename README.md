@@ -114,7 +114,7 @@ Este tipo de análisis ayuda a conectar los conceptos de **verificación y valid
 #### Mejores respuestas
 - [Equipo Lorna Mella - Rosario Bregante](https://github.com/lmellan/Tarea_1-INF331)
 - [Esteban Castillo - Myckoll Winchester](https://github.com/MyckollWinchester/inf331-tarea1)
-- [Giovanni Mealla - Ignacio Alvarado](https://github.com/inf331-alfaro-mealla/ProductGest)
+- [Giovanni Mealla - Ignacio Alfaro](https://github.com/inf331-alfaro-mealla/ProductGest)
 
 ### 📅 Segundo semestre 2024
 
