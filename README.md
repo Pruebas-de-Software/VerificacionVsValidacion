@@ -112,9 +112,9 @@ Este tipo de análisis ayuda a conectar los conceptos de **verificación y valid
 📄[[>>Ver detalle caso]](ejercicios/ej_s12025.md)
 
 #### Mejores respuestas
-- Repo 1
-- Repo 2
-- Repo 3
+- [Equipo Lorna Mella - Rosario Bregante](https://github.com/lmellan/Tarea_1-INF331)
+- [Esteban Castillo - Myckoll Winchester](https://github.com/MyckollWinchester/inf331-tarea1)
+- [Giovanni Mealla - Ignacio Alvarado](https://github.com/inf331-alfaro-mealla/ProductGest)
 
 ### 📅 Segundo semestre 2024
 
