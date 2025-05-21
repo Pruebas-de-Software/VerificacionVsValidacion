@@ -47,7 +47,7 @@ public int calculateDiscount(int price, String category) {
         
      
 
-Esta función calcula un descuento basado en el precio y la categoría de producto. A simple vista, parece directa. Pero si queremos **validar** y **verificar** correctamente esta función, debemos formular una serie de preguntas.
+La función anteiro calcula un descuento basado en el precio y la categoría de producto. A simple vista, parece directa. Pero si queremos **validar** y **verificar** correctamente esta función, debemos formular una serie de preguntas.
 
 ---
 
@@ -64,7 +64,7 @@ Asegurarse de tener las respuestas correctas a estas preguntas es parte de la va
 7. ¿Cómo se comporta el sistema si el precio es muy alto o muy bajo?
 8. ¿Este cálculo se debe usar en contexto internacional con otras monedas?
 
-Estas preguntas permiten validar que la lógica que estamos construyendo tenga sentido **para el negocio y el contexto real**.
+Estas preguntas permiten validar que la lógica que estamos construyendo tenga sentido **para el negocio y el contexto**.
 
 ---
 
@@ -85,9 +85,6 @@ Es importante tener en cuenta que sería literalmente imposible probar exhaustiv
 | TC09  | `calculateDiscount(1000, "")`             | Error o `1000`   | Categoría vacía                              |
 | TC10  | `calculateDiscount(999999999, "Electrónica")` | Evaluar comportamiento extremo | Límite superior |
 
----
-
-Este tipo de análisis ayuda a conectar los conceptos de **verificación y validación** con escenarios reales de desarrollo.
 
 ---
 
