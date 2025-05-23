@@ -133,7 +133,6 @@ Es importante tener en cuenta que sería literalmente imposible probar exhaustiv
 📄[[>>Ver detalle caso]](ejercicios/ej_s22024.md)
 
 #### Mejores respuestas
-- Repo 1
-- Repo 2
-- Repo 3
+- [Equipo Nicolás Olivos - Felipe Brauer](https://github.com/INF331-MiniProjects-20242/Proyecto-Gestionador-Tareas)
+- [Pablo Campos - Luis Zegarra](https://github.com/Equipo13-PruebadeSoftware/Tarea1-MyTask)
 ---
