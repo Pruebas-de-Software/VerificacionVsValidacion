@@ -113,6 +113,8 @@ Es importante tener en cuenta que sería literalmente imposible probar exhaustiv
 - [Esteban Castillo - Myckoll Winchester](https://github.com/MyckollWinchester/inf331-tarea1)
 - [Giovanni Mealla - Ignacio Alfaro](https://github.com/inf331-alfaro-mealla/ProductGest)
 
+---
+
 ### 📅 Segundo semestre 2024
 
 **📝 Gestión de Tareas**
@@ -135,4 +137,27 @@ Es importante tener en cuenta que sería literalmente imposible probar exhaustiv
 #### Mejores respuestas
 - [Equipo Nicolás Olivos - Felipe Brauer](https://github.com/INF331-MiniProjects-20242/Proyecto-Gestionador-Tareas)
 - [Pablo Campos - Luis Zegarra](https://github.com/Equipo13-PruebadeSoftware/Tarea1-MyTask)
+
+---
+
+### 📅 Primer semestre 2024
+
+**🔒 My Pass**
+
+**Requisito:**
+>
+>Mypass es un programa que permite almacenar contraseñas de forma segura y generar contraseñas seguras. El programa permite al usuario crear una cuenta, iniciar sesión, agregar contraseñas, ver contraseñas guardadas y un generador de contraseñas.
+>Las contraseñas se almacenan de forma encriptada en una base de datos. El programa cuenta con un menú de opciones que permite al usuario navegar por las diferentes funcionalidades del programa.
+>
+
+📄[[>>Ver detalle caso]](ejercicios/ej_s12024.md)
+
+#### Mejores respuestas
+- Ignacio Alvarado - Ian Cooper
+    - [Repo](https://github.com/tareas-pruebas-sw/tarea-1)
+    - [Informe]()
+- Bárbara Riveros - Denyss Cárcamo
+    - [Repo](https://github.com/b-riveros/Tarea1_INF331)
+    - [Informe]()
+  
 ---
