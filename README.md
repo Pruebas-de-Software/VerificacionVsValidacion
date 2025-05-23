@@ -155,9 +155,9 @@ Es importante tener en cuenta que sería literalmente imposible probar exhaustiv
 #### Mejores respuestas
 - Ignacio Alvarado - Ian Cooper
     - [Repo](https://github.com/tareas-pruebas-sw/tarea-1)
-    - [Informe]()
+    - [Informe](https://github.com/Pruebas-de-Software/VerificacionVsValidacion/blob/main/ejercicios/Alvarado%20-%20Cooper%20Grupo4.pdf)
 - Bárbara Riveros - Denyss Cárcamo
     - [Repo](https://github.com/b-riveros/Tarea1_INF331)
-    - [Informe]()
+    - [Informe](https://github.com/Pruebas-de-Software/VerificacionVsValidacion/blob/main/ejercicios/Barbara%20-%20Riveros%20Grupo2.pdf)
   
 ---
