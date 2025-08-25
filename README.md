@@ -92,19 +92,20 @@ Es importante tener en cuenta que sería literalmente imposible probar exhaustiv
 
 ### 📅 Segundo semestre 2025
 
-**📦 Inventario Bodega**
+**📦 Gestión de Entradas para Micro-Eventos**
 
 **Requisito:**
 >
->Un emprendedor nos ha solicitado una aplicación sencilla para gestionar su inventario de productos en la bodega de su negocio. Nos ha dicho que, con tanta tecnología, necesita algo práctico y funcional.
+>Una productora local nos ha solicitado una aplicación sencilla para gestionar las entradas de sus micro-eventos (charlas, talleres y shows pequeños). Nos piden algo práctico y funcional que les permita cargar eventos, vender y devolver entradas, y ver un resumen claro de lo que viene y de lo que ya está agotado. La aplicación debe ser simple de operar y estar protegida por un inicio de sesión básico.
 >
 >Requerimientos:
 >
->CRUD de Productos: Permitir a los usuarios agregar, consultar, actualizar y eliminar productos del inventario. Cada producto debe tener un nombre, descripción, cantidad disponible, precio unitario y categoría (por ejemplo, "Electrónica", "Ropa", "Alimentos", etc.).
->Gestión de Stock: Permitir actualizar la cantidad de productos cuando se vendan o se reciban nuevas unidades.
->Filtrado y Búsqueda
->Generación de Reportes: Mostrar un resumen con el total de productos en inventario, el valor total del inventario y los productos agotados.
->Autenticación: Proteger el acceso con un sistema de autenticación por nombre de usuario y contraseña.
+>CRUD de Eventos: Permitir crear, consultar, actualizar y eliminar eventos. Cada evento debe registrar nombre, descripción, fecha, categoría (por ejemplo, “Charla”, “Taller”, “Show”), precio de entrada (entero) y cupos disponibles.
+>Gestión de Cupos: Permitir vender entradas (Simulación de venta. Disminuye cupos disponibles sin permitir ventas por sobre el cupo) y devolver/anular entradas (aumenta cupos disponibles).
+>Filtrado y Búsqueda: Permitir filtrado de eventos.
+>Generación de Reportes: Mostrar un resumen con: total de eventos registrados, suma de cupos disponibles en todos los eventos y eventos agotados.
+>
+>Autenticación: Proteger el acceso con usuario y contraseña, de modo que solo usuarios autenticados puedan crear, editar, eliminar eventos y registrar ventas/devoluciones.
 
 📄[[>>Ver detalle caso]](ejercicios/ej_s22025.md)
 
