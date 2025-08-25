@@ -90,6 +90,25 @@ Es importante tener en cuenta que sería literalmente imposible probar exhaustiv
 
 # 💻 Ejercicios asociados a Validación y Verificación 
 
+### 📅 Segundo semestre 2025
+
+**📦 Inventario Bodega**
+
+**Requisito:**
+>
+>Un emprendedor nos ha solicitado una aplicación sencilla para gestionar su inventario de productos en la bodega de su negocio. Nos ha dicho que, con tanta tecnología, necesita algo práctico y funcional.
+>
+>Requerimientos:
+>
+>CRUD de Productos: Permitir a los usuarios agregar, consultar, actualizar y eliminar productos del inventario. Cada producto debe tener un nombre, descripción, cantidad disponible, precio unitario y categoría (por ejemplo, "Electrónica", "Ropa", "Alimentos", etc.).
+>Gestión de Stock: Permitir actualizar la cantidad de productos cuando se vendan o se reciban nuevas unidades.
+>Filtrado y Búsqueda
+>Generación de Reportes: Mostrar un resumen con el total de productos en inventario, el valor total del inventario y los productos agotados.
+>Autenticación: Proteger el acceso con un sistema de autenticación por nombre de usuario y contraseña.
+
+📄[[>>Ver detalle caso]](ejercicios/ej_s22025.md)
+
+
 ### 📅 Primer semestre 2025
 
 **📦 Inventario Bodega**
