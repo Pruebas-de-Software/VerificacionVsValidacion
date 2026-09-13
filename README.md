@@ -90,6 +90,8 @@ Es importante tener en cuenta que sería literalmente imposible probar exhaustiv
 
 # 💻 Ejercicios asociados a Validación y Verificación 
 
+>Un laboratorio universitario presta equipos tecnológicos a estudiantes y profesores. Actualmente, las solicitudes se reciben por correo electrónico o mensajería instantánea (Whatsapp), y la disponibilidad se controla mediante una planilla que no siempre está actualizada.
+
 ### 📅 Segundo semestre 2026
 
 
@@ -102,7 +104,6 @@ Es importante tener en cuenta que sería literalmente imposible probar exhaustiv
 
 **📦 Gestión de Entradas para Micro-Eventos**
 
-**Requisito:**
 >
 >Una productora local nos ha solicitado una aplicación sencilla para gestionar las entradas de sus micro-eventos (charlas, talleres y shows pequeños). Nos piden algo práctico y funcional que les permita cargar eventos, vender y devolver entradas, y ver un resumen claro de lo que viene y de lo que ya está agotado. La aplicación debe ser simple de operar y estar protegida por un inicio de sesión básico.
 >
