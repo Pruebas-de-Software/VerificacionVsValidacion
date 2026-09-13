@@ -90,6 +90,14 @@ Es importante tener en cuenta que sería literalmente imposible probar exhaustiv
 
 # 💻 Ejercicios asociados a Validación y Verificación 
 
+### 📅 Segundo semestre 2026
+
+
+
+📄[[>>Ver detalle caso]](ejercicios/ej_s22026.md)
+
+---
+
 ### 📅 Segundo semestre 2025
 
 **📦 Gestión de Entradas para Micro-Eventos**
